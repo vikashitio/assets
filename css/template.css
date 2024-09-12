@@ -1,4 +1,5 @@
 .auth {min-height: calc(100vh - 60px)  !important;}
+.d-footer{background: linear-gradient(#ffffff, #d7dae0) !important;}
 .navbar-search input {width: 300px !important;}
 ::-webkit-scrollbar{width:2px;height:2px;}
 ::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);-webkit-border-radius:10px;border-radius:10px;}
